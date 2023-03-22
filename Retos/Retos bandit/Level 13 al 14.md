@@ -1,12 +1,23 @@
+# Bandit Level 13 → Level 14
+
 ## Objetivo
-The goal of this level is for you to log into the game using SSH. The host to which you need to connect is **bandit.labs.overthewire.org**, on port 2220. The username is **bandit0** and the password is **bandit0**. Once logged in, go to the [Level 1](https://overthewire.org/wargames/bandit/bandit1.html) page to find out how to beat Level 1.
+
+La contraseña para el siguiente nivel se almacena en **/etc/bandit_pass/bandit14 y solo puede leerla el usuario bandit14** . Para este nivel, no obtiene la siguiente contraseña, pero obtiene una clave SSH privada que puede usarse para iniciar sesión en el siguiente nivel. **Nota:** **localhost** es un nombre de host que se refiere a la máquina en la que está trabajando
 
 ## Datos de acceso al nivel
-- **bandit0**
-- ssh bandit0@bandit.labs.overthewire.org -p 2220
+- bandit13 
+- wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw
 ## Solucion
 ```
-C:\>ssh bandit0@bandit.labs.overthewire.org -p 2220
+bandit13@bandit:~$ ls
+sshkey.private
+bandit13@bandit:~$ ssh -i sshkey.private bandit14@localhost -p 2220
+The authenticity of host '[localhost]:2220 ([127.0.0.1]:2220)' can't be established.
+ED25519 key fingerprint is SHA256:C2ihUBV7ihnV1wUXRb4RrEcLfXC5CXlhmAAM/urerLY.
+This key is not known by any other names
+Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
+Could not create directory '/home/bandit13/.ssh' (Permission denied).
+Failed to add the host to the list of known hosts (/home/bandit13/.ssh/known_hosts).
                          _                     _ _ _
                         | |__   __ _ _ __   __| (_) |_
                         | '_ \ / _` | '_ \ / _` | | __|
@@ -17,7 +28,10 @@ C:\>ssh bandit0@bandit.labs.overthewire.org -p 2220
                       This is an OverTheWire game server.
             More information on http://www.overthewire.org/wargames
 
-bandit0@bandit.labs.overthewire.org's password:
+!!! You are trying to log into this SSH server with a password on port 2220 from localhost.
+!!! Connecting from localhost is blocked to conserve resources.
+!!! Please log out and log in again.
+
 
       ,----..            ,----,          .---.
      /   /   \         ,/   .`|         /. ./|
@@ -103,12 +117,18 @@ discord or IRC.
 
   Enjoy your stay!
 
-bandit0@bandit:~$
+bandit14@bandit:~$ cat /etc/bandit_pass/bandit14
+fGrHPx402xGC7U7rXKDaxiWFTOiF0ENq
+bandit14@bandit:~$ exit
+logout
+Connection to localhost closed.
+bandit13@bandit:~$ exit
+logout
+Connection to bandit.labs.overthewire.org closed
+
 ```
 
 ## Notas adicionales
-En este nivel solo el reto es poder ingresar al servidor desde ssh, asi que no tiene mayor complejidad.
+Es un reto distinto a lo acostumbrado porque no otroga un password de acceso sino que te lleva directo al siguiente por medio de una key
 ## Referencias
--https://en.wikipedia.org/wiki/Secure_Shell
--https://www.wikihow.com/Use-SSH
-
+- https://rundata.wordpress.com/2013/03/21/overthewire-bandit-wargame-solutions-1-24/
