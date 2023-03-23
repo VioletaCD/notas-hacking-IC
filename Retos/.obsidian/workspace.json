@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/06 - Client-side-again.md",
+                "file": "picoCTF/10 - JaWT Scratchpad.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/06 - Client-side-again.md",
+                "file": "picoCTF/10 - JaWT Scratchpad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/06 - Client-side-again.md",
+                "file": "picoCTF/10 - JaWT Scratchpad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/06 - Client-side-again.md"
+                "file": "picoCTF/10 - JaWT Scratchpad.md"
               }
             }
           }
@@ -148,6 +148,10 @@
   },
   "active": "3f4d4dfda2edb23b",
   "lastOpenFiles": [
+    "picoCTF/09 - Irish-Name-Repo 3.md",
+    "picoCTF/08 - Irish-Name-Repo 2.md",
+    "picoCTF/07 - Irish-Name-Repo 1.md",
+    "picoCTF/06 - Client-side-again.md",
     "picoCTF/05 - Picobrowser.md",
     "picoCTF/04  - Dont-use-client-side.md",
     "picoCTF/03 - Logon.md",
@@ -171,10 +175,6 @@
     "Primer parcial/2021/06 - Magikarp Ground Mission.md",
     "Primer parcial/2021/05 - Tab, Tab, Attack.md",
     "Primer parcial/2021/04 - Static ain't always noise.md",
-    "Primer parcial/2021/03 - Nice netcat....md",
-    "Primer parcial/2021/02 - Wave a flag.md",
-    "Primer parcial/2019/09 - Plumbing.md",
-    "Primer parcial/2019/08 - Based.md",
     "Untitled.canvas",
     "Primer parcial/2022",
     "Primer parcial/2021",
