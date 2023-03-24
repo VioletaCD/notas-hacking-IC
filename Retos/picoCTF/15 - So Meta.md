@@ -1,3 +1,11 @@
+# So Meta
+## Descripcipción
+Find the flag in this [picture](https://jupiter.challenges.picoctf.org/static/00efdf2961da1e21470ffc0d496c3cc2/pico_img.png).
+## Pistas
+- What does meta mean in the context of files?
+- Ever heard of metadata?
+## Solucion
+```
 ┌──(kali㉿kali)-[~/Documents/forense/someta]
 └─$ open pico_img.png 
                                                                             
@@ -48,3 +56,9 @@ Artist                          : picoCTF{s0_m3ta_fec06741}
 ┌──(kali㉿kali)-[~/Documents/forense/someta]
 └─$ strings pico_img.png | grep pico 
 picoCTF{s0_m3ta_fec06741}
+```
+## Bandera
+picoCTF{s0_m3ta_fec06741}
+## Notas adicionales
+## Referencias
+

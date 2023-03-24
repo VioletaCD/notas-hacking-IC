@@ -1,0 +1,23 @@
+# Rules 2023
+
+# Objetivo
+
+Read the rules of the competition and get a little bonus[![Rules](https://camo.githubusercontent.com/a88aa67bab08fc7ee98df87c0d79b814d4a13785be8ad6dbb58b90f554a29c31/68747470733a2f2f7069636f6374662e6f72672f636f6d7065746974696f6e732f323032332d737072696e672d72756c65732e68746d6c)](https://camo.githubusercontent.com/a88aa67bab08fc7ee98df87c0d79b814d4a13785be8ad6dbb58b90f554a29c31/68747470733a2f2f7069636f6374662e6f72672f636f6d7065746974696f6e732f323032332d737072696e672d72756c65732e68746d6c)
+
+# Pistas
+
+-   Ctrl-F will not work
+
+# Solución
+
+-   Descargamos el archivo y lo leemos buscando la palabra clave "picoCTF{"
+
+```
+jesjua-picoctf@webshell:~$ cat 2023-spring-rules.html  | grep "picoCTF{"
+by the Team leader. <img src="/img/rules_fl23.png" alt="picoCTF{h34rd_und3r5700d_4ck_cba1c711}" /></p>
+jesjua-picoctf@webshell:~$
+```
+
+# Bandera
+
+picoCTF{h34rd_und3r5700d_4ck_cba1c711}

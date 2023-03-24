@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "88a57315b687ae25",
+        "id": "b894abac6e09621a",
         "type": "tabs",
         "children": [
           {
-            "id": "ded0eb962c5ceab3",
+            "id": "6c28f2580d5d064f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/12 - Cookies.md",
+                "file": "picoCTF/14 - Glory of the Garden.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e0cfa6c2d206f209",
+            "id": "9dd3a25b90770191",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/11 - GET aHEAD.md",
+                "file": "picoCTF/18 - What Lies Within.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/11 - GET aHEAD.md",
+                "file": "picoCTF/18 - What Lies Within.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/11 - GET aHEAD.md",
+                "file": "picoCTF/18 - What Lies Within.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/11 - GET aHEAD.md"
+                "file": "picoCTF/18 - What Lies Within.md"
               }
             }
           }
@@ -159,17 +159,27 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e0cfa6c2d206f209",
+  "active": "3f4d4dfda2edb23b",
   "lastOpenFiles": [
-    "picoCTF/13 - Scavenger Hunt.md",
+    "picoCTF/14 - Glory of the Garden.md",
+    "picoCTF/18 - What Lies Within.md",
+    "extensions.md",
+    "picoCTF/17 - Extensions.md",
+    "picoCTF/16 - Shark on wire 1.md",
+    "picoCTF/15 - So Meta.md",
+    "Rules 2023.md",
+    "picoCTF/01 - Insp3ct0r.md",
+    "Reverse.md",
+    "Safe Opener 2.md",
+    "rotation.md",
+    "TIMER.md",
+    "Untitled 2.md",
+    "Untitled 3.md",
     "picoCTF/12 - Cookies.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "shark on wire 1.md",
+    "picoCTF/11 - GET aHEAD.md",
+    "picoCTF/13 - Scavenger Hunt.md",
     "README.md",
     "money-ware.md",
-    "extensions.md",
-    "picoCTF/11 - GET aHEAD.md",
     "picoCTF/10 - JaWT Scratchpad.md",
     "picoCTF/09 - Irish-Name-Repo 3.md",
     "picoCTF/08 - Irish-Name-Repo 2.md",
@@ -177,17 +187,7 @@
     "picoCTF/06 - Client-side-again.md",
     "picoCTF/05 - Picobrowser.md",
     "picoCTF/04  - Dont-use-client-side.md",
-    "picoCTF/03 - Logon.md",
-    "picoCTF/02 - Where are the robots.md",
-    "picoCTF/01 - Insp3ct0r.md",
-    "Primer parcial/2022/09 - PW Crack 3.md",
     "picoCTF",
-    "Primer parcial/2022/08 - PW Crack 2.md",
-    "Primer parcial/2022/07 - PW Crack 1.md",
-    "Primer parcial/2022/05 - Fixme2.py.md",
-    "Primer parcial/2022/06 - Glitch Cat.md",
-    "Primer parcial/2022/04 - Fixme1.py.md",
-    "Primer parcial/2021/01 - Obedient Cat.md",
     "Untitled.canvas",
     "Primer parcial/2022",
     "Primer parcial/2021",
