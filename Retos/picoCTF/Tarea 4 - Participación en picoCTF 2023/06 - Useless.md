@@ -1,5 +1,11 @@
+# Useless
+## Descripcipción
+There's an interesting script in the user's home directoryThe work computer is running SSH. We've been given a script which performs some basic calculations, explore the script and find a flag.
+## Pistas
+## Solución
 ```
-jesjua-picoctf@webshell:~$ ssh picoplayer@saturn.picoctf.net -p 57780
+┌──(kali㉿kali)-[~/Documents/forense/What Lies Within]
+└─$ssh picoplayer@saturn.picoctf.net -p 57780
 The authenticity of host '[saturn.picoctf.net]:57780 ([13.59.203.175]:57780)' can't be established.
 ED25519 key fingerprint is SHA256:ves7M6DhshpiJSsScBWo3n34oOFTUXvLZqPyqLWeTHk.
 This host key is known by the following other names/addresses:
@@ -20,9 +26,11 @@ individual files in /usr/share/doc/*/copyright.
 Ubuntu comes with ABSOLUTELY NO WARRANTY, to the extent permitted by
 applicable law.
 
-picoplayer@challenge:~$ ls   
+┌──(kali㉿kali)-[~/Documents/forense/What Lies Within]
+└─$ ls   
 useless
-picoplayer@challenge:~$ cat useless 
+┌──(kali㉿kali)-[~/Documents/forense/What Lies Within]
+└─$ cat useless 
 #!/bin/bash
 # Basic mathematical operations via command-line arguments
 
@@ -84,5 +92,10 @@ Authors
 
      picoCTF{us3l3ss_ch4ll3ng3_3xpl0it3d_4373}
 
-picoplayer@challenge:~$ 
+┌──(kali㉿kali)-[~/Documents/forense/What Lies Within]
+└─$
 ```
+## Bandera
+picoCTF{us3l3ss_ch4ll3ng3_3xpl0it3d_4373}
+## Notas Adicionales
+## Referencias
