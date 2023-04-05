@@ -1,12 +1,17 @@
+# C0rrupt
+## Descripcipción
+We found this [file](https://jupiter.challenges.picoctf.org/static/ab30fcb7d47364b4190a7d3d40edb551/mystery). Recover the flag
+## Pistas
+- Try fixing the file header
+## Solucion
+```
 ┌──(kali㉿kali)-[~/Documents/forense/cor]
 └─$ pngcheck -v mystery    
 File: mystery (202940 bytes)
   invalid chunk name "C"DR" (43 22 44 52)
 ERRORS DETECTED in mystery
-                                                                                                                                                                      
 ┌──(kali㉿kali)-[~/Documents/forense/cor]
 └─$ hexeditor mystery        
-                                                                                                                                                                      
 ┌──(kali㉿kali)-[~/Documents/forense/cor]
 └─$ pngcheck -v mystery
 File: mystery (202940 bytes)
@@ -18,10 +23,8 @@ File: mystery (202940 bytes)
   chunk pHYs at offset 0x00042, length 9: 2852132389x5669 pixels/meter
   CRC error in chunk pHYs (computed 38d82c82, expected 495224f0)
 ERRORS DETECTED in mystery
-                                                                                                                                                                      
 ┌──(kali㉿kali)-[~/Documents/forense/cor]
 └─$ hexeditor mystery  
-                                                                                                                                                                      
 ┌──(kali㉿kali)-[~/Documents/forense/cor]
 └─$ pngcheck -v mystery
 File: mystery (202940 bytes)
@@ -33,10 +36,8 @@ File: mystery (202940 bytes)
   chunk pHYs at offset 0x00042, length 9: 5669x5669 pixels/meter (144 dpi)
 :  invalid chunk length (too large)
 ERRORS DETECTED in mystery
-                                                                                                                                                                      
 ┌──(kali㉿kali)-[~/Documents/forense/cor]
 └─$ hexeditor mystery  
-                                                                                                                                                                      
 ┌──(kali㉿kali)-[~/Documents/forense/cor]
 └─$ pngcheck -v mystery
 File: mystery (202940 bytes)
@@ -48,10 +49,8 @@ File: mystery (202940 bytes)
   chunk pHYs at offset 0x00042, length 9: 5669x5669 pixels/meter (144 dpi)
   invalid chunk name "�DET" (ffffffab 44 45 54)
 ERRORS DETECTED in mystery
-                                                                                                                                                                      
 ┌──(kali㉿kali)-[~/Documents/forense/cor]
 └─$ hexeditor mystery  
-                                                                                                                                                                      
 ┌──(kali㉿kali)-[~/Documents/forense/cor]
 └─$ pngcheck -v mystery
 File: mystery (202940 bytes)
@@ -68,6 +67,14 @@ File: mystery (202940 bytes)
   chunk IDAT at offset 0x30008, length 6304
   chunk IEND at offset 0x318b4, length 0
 No errors detected in mystery (9 chunks, 96.3% compression).
-                                                                                                                                                                      
 ┌──(kali㉿kali)-[~/Documents/forense/cor]
 └─$ open mystery   
+```
+![[Pasted image 20230404163630.png]]
+## Bandera
+picoCTF{c0rrupt10_1847995}
+## Notas adicionales
+Fue necesario editar los chunks IHDR del png  para llegar a la bandera
+## Referencias
+https://parsiya.net/blog/2018-02-25-extracting-png-chunks-with-go/
+

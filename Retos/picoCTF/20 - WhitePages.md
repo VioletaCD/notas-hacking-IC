@@ -1,9 +1,8 @@
-
+# WhitePages
 ## Descripcipción
-Decode this [message](https://jupiter.challenges.picoctf.org/static/d6fcea5e3c6433680ea4f914e24fab61/message.wav) from the moon
+I stopped using YellowPages and moved onto WhitePages... but [the page they gave me](https://jupiter.challenges.picoctf.org/static/74274b96fe966126a1953c80762af80d/whitepages.txt) is all blank!
 ## Pistas
-- How did pictures from the moon landing get sent back to Earth?
-- What is the CMU mascot?, that might help select a RX option
+None
 ## Solucion
 ```
 sed 's/ /0/g' whitepages.txt | sed 's/ /1/g'
@@ -13,6 +12,6 @@ sed 's/ /0/g' whitepages.txt | sed 's/ /1/g'
 ## Bandera
 picoCTF{not_all_spaces_are_created_equal_c54f27cd05c2189f8147cc6f5deb2e56}
 ## Notas adicionales
-instalar sstv
+Es necesario usar un decodificador de binario a texto para extraer la bandera
 ## Referencias
-https://github.com/colaclanth/sstv
+https://www.rapidtables.com/convert/number/binary-to-ascii.html

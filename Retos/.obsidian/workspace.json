@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9aa788c83a7ff304",
+        "id": "571ec511ec567c96",
         "type": "tabs",
         "children": [
           {
-            "id": "b0a12818e306fc57",
+            "id": "ce99590812df3ede",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Tarea 4 - Participación en picoCTF 2023/14 - Timer.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/Tarea 4 - Participación en picoCTF 2023/14 - Timer.md",
+                "file": "picoCTF/23 - Shark on wire 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/Tarea 4 - Participación en picoCTF 2023/14 - Timer.md",
+                "file": "picoCTF/23 - Shark on wire 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/Tarea 4 - Participación en picoCTF 2023/14 - Timer.md"
+                "file": "picoCTF/23 - Shark on wire 2.md"
               }
             }
           }
@@ -146,8 +142,24 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "b0a12818e306fc57",
+  "active": "3f4d4dfda2edb23b",
   "lastOpenFiles": [
+    "picoCTF/17 - Extensions.md",
+    "picoCTF/23 - Shark on wire 2.md",
+    "picoCTF/22 - Like1000.md",
+    "picoCTF/Pasted image 20230404165621.png",
+    "picoCTF/20 - WhitePages.md",
+    "Pasted image 20230404161359.png.md",
+    "picoCTF/19 - m00nwalk.md",
+    "picoCTF/Pasted image 20230404164112.png",
+    "picoCTF/21 - C0rrupt.md",
+    "picoCTF/Pasted image 20230404163630.png",
+    "picoCTF/11 - GET aHEAD.md",
+    "picoCTF/16 - Shark on wire 1.md",
+    "Pasted image 20230404161335.png",
+    "Pasted image 20230404161359.png",
+    "Pasted image 20230404161350.png",
+    "picoCTF/Tarea 4 - Participación en picoCTF 2023/14 - Timer.md",
     "picoCTF/Tarea 4 - Participación en picoCTF 2023/13 - Safe Opener 2.md",
     "picoCTF/Tarea 4 - Participación en picoCTF 2023/12 - ReadMyCert.md",
     "picoCTF/Tarea 4 - Participación en picoCTF 2023/11 - Two-sum.md",
@@ -161,19 +173,9 @@
     "picoCTF/Tarea 4 - Participación en picoCTF 2023/03 - Rules 2023.md",
     "picoCTF/Tarea 4 - Participación en picoCTF 2023/02 - Repetitions.md",
     "picoCTF/Tarea 4 - Participación en picoCTF 2023/01 - money-ware.md",
-    "Untitled.md",
-    "19 - m00nwalk.md",
-    "WhitePages.md",
-    "c0rrupt.md",
     "README.md",
     "TI.md",
     "Untitled 1.md",
-    "Untitled 2.md",
-    "picoCTF/14 - Glory of the Garden.md",
-    "picoCTF/13 - Scavenger Hunt.md",
-    "picoCTF/11 - GET aHEAD.md",
-    "picoCTF/09 - Irish-Name-Repo 3.md",
-    "picoCTF/07 - Irish-Name-Repo 1.md",
     "picoCTF/Tarea 4 - Participación en picoCTF 2023",
     "picoCTF",
     "Untitled.canvas",
