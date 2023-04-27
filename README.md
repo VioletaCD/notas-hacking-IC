@@ -153,3 +153,9 @@ email: 31123695@uaz.udu.mx
 -   33 - la cifra de [txt](https://ingsoftware.reduaz.mx/moodle/pluginfile.php/64989/mod_assign/intro/x.txt) - [crack](https://www.guballa.de/vigenere-solver)  
 -   34 -Tapping [txt](https://ingsoftware.reduaz.mx/moodle/pluginfile.php/64989/mod_assign/intro/x%20%281%29.txt)  
 -   35 - waves over lambda [txt](https://ingsoftware.reduaz.mx/moodle/pluginfile.php/64989/mod_assign/intro/y.txt) - [crack](https://www.guballa.de/substitution-solver)
+
+## Actividad 12 - Retos: Crypto - Parte 2
+--pico-2019:
+-  36 - rsa pop quiz
+-  37 - miniRSA
+-  38 - b00tl3gRSA2
