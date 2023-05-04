@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "fb97006aab6bfc41",
+        "id": "bf4969a21e77a57a",
         "type": "tabs",
         "children": [
           {
-            "id": "b14a4d332c542f41",
+            "id": "97a3f1326edbdb31",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/48 - asm1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "82a98169d85331a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vault-door-training.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "63aad28711793ac8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/50 - asm3.md",
+                "file": "picoCTF/47 - Vault-door-4.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 264.5
   },
   "right": {
     "id": "8ffb78c6d37309c2",
@@ -118,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/50 - asm3.md",
+                "file": "picoCTF/47 - Vault-door-4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/50 - asm3.md",
+                "file": "picoCTF/47 - Vault-door-4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/50 - asm3.md"
+                "file": "picoCTF/47 - Vault-door-4.md"
               }
             }
           }
@@ -181,18 +156,18 @@
   },
   "active": "3f4d4dfda2edb23b",
   "lastOpenFiles": [
+    "picoCTF/46 - vault-door-3.md",
+    "picoCTF/45 - vault-door-1.md",
+    "picoCTF/44 - Vault-door-training.md",
+    "picoCTF/50 - asm3.md",
     "picoCTF/49 - asm2.md",
     "picoCTF/48 - asm1.md",
-    "Vault-door-training.md",
-    "picoCTF/50 - asm3.md",
     "picoCTF/02 - Where are the robots.md",
     "picoCTF/43 - ReadMyCert.md",
     "picoCTF/Pasted image 20230502205501.png",
     "picoCTF/42 - HideToSee.md",
-    "vault-door-1.md",
     "picoCTF/41 - Basic-mod1.md",
-    "Vault-door-4.md",
-    "vault-door-3.md",
+    "picoCTF/47 - Vault-door-4.md",
     "picoCTF/40 - Pixelated.md",
     "picoCTF/Pasted image 20230427203617.png",
     "picoCTF/39 - Mind your Ps and Qs.md",

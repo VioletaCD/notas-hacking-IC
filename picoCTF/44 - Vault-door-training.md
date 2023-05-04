@@ -6,7 +6,7 @@ The password is revealed in the program's source code.
 ## Solucion
 ```
 -El reto nos otorga un codigo java el cual dentro del mismo se encuentra la bandera
--se puede extraer simplemente revisando el codigo o corriendo el codigo ej ingresando el pasword que es picoCTF
+-se puede extraer simplemente revisando el codigo o corriendo el codigo  ingresando el pasword que es picoCTF
 ```
 ## Bandera
 picoCTF{w4rm1ng_Up_w1tH_jAv4_eec0716b713}
