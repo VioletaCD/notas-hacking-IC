@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "bf4969a21e77a57a",
+        "id": "1ecc3533cf9dac48",
         "type": "tabs",
         "children": [
           {
-            "id": "97a3f1326edbdb31",
+            "id": "72be8adbeaa70274",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/47 - Vault-door-4.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "brad",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/47 - Vault-door-4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/47 - Vault-door-4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "picoCTF/47 - Vault-door-4.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -154,50 +146,54 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "3f4d4dfda2edb23b",
+  "active": "72be8adbeaa70274",
   "lastOpenFiles": [
-    "picoCTF/46 - vault-door-3.md",
-    "picoCTF/45 - vault-door-1.md",
-    "picoCTF/44 - Vault-door-training.md",
-    "picoCTF/50 - asm3.md",
-    "picoCTF/49 - asm2.md",
-    "picoCTF/48 - asm1.md",
-    "picoCTF/02 - Where are the robots.md",
-    "picoCTF/43 - ReadMyCert.md",
-    "picoCTF/Pasted image 20230502205501.png",
-    "picoCTF/42 - HideToSee.md",
-    "picoCTF/41 - Basic-mod1.md",
-    "picoCTF/47 - Vault-door-4.md",
-    "picoCTF/40 - Pixelated.md",
-    "picoCTF/Pasted image 20230427203617.png",
-    "picoCTF/39 - Mind your Ps and Qs.md",
-    "picoCTF/Pasted image 20230404163630.png",
-    "picoCTF/36 - RSA pop quiz.md",
-    "picoCTF/37 - MiniRSA.md",
-    "picoCTF/38 - b00tl3gRSA2.md",
+    "picoCTF/54 - Safe Opener 2.md",
+    "picoCTF/Tarea 4 - Participación en picoCTF 2023/13 - Safe Opener 2.md",
+    "picoCTF/53 - Reverse_cipher.md",
     "picoCTF/03 - Logon.md",
-    "picoCTF/01 - Insp3ct0r.md",
-    "README.md",
-    "picoCTF/07 - Irish-Name-Repo 1.md",
-    "picoCTF/32 - Caesar.md",
-    "picoCTF/35 - Waves over lambda.md",
-    "picoCTF/34 - Tapping.md",
+    "picoCTF/52 - GDB Test Drive.md",
+    "picoCTF/51 - Need For Speed.md",
+    "Segundo Parcial/2021/02 - Wireshark doo dooo do doo....md",
+    "Segundo Parcial/2021/01 - Information.md",
+    "picoCTF/16 - Shark on wire 1.md",
+    "picoCTF/28 - MacroHard WeakEdge.md",
+    "picoCTF/27 - Tunn3l_v1s10n.md",
+    "picoCTF/26 - Matryoshka doll.md",
+    "picoCTF/25 - Webnet1.md",
+    "picoCTF/24 - WebNet0.md",
+    "picoCTF/23 - Shark on wire 2.md",
+    "picoCTF/22 - Like1000.md",
+    "picoCTF/21 - C0rrupt.md",
+    "picoCTF/20 - WhitePages.md",
+    "picoCTF/19 - m00nwalk.md",
+    "picoCTF/18 - What Lies Within.md",
+    "picoCTF/17 - Extensions.md",
+    "picoCTF/15 - So Meta.md",
+    "picoCTF/14 - Glory of the Garden.md",
+    "picoCTF/13 - Scavenger Hunt.md",
+    "picoCTF/12 - Cookies.md",
+    "picoCTF/11 - GET aHEAD.md",
+    "Untitled",
+    "Segundo Parcial/2022/Web",
+    "Segundo Parcial/2022/Forensic",
+    "Segundo Parcial/2021",
+    "Segundo Parcial/2022/Web/Pasted image 20230504181815.png",
+    "Segundo Parcial/2022",
+    "Segundo Parcial",
+    "picoCTF/Pasted image 20230502205501.png",
+    "picoCTF/Pasted image 20230427203617.png",
+    "picoCTF/Pasted image 20230404163630.png",
     "picoCTF/Pasted image 20230422182013.png",
-    "picoCTF/33 - La cifra de.md",
-    "picoCTF/29 - The Numbers.md",
-    "picoCTF/31 - 13.md",
     "picoCTF/Pasted image 20230422174008.png",
     "picoCTF/Pasted image 20230420140653.png",
     "picoCTF/Pasted image 20230420140641.png",
     "picoCTF/Pasted image 20230420135659.png",
     "picoCTF/Pasted image 20230420134613.png",
-    "picoCTF/Pasted image 20230420133924.png",
     "picoCTF/Tarea 4 - Participación en picoCTF 2023",
     "picoCTF",
     "Untitled.canvas",
     "Primer parcial/2022",
-    "Primer parcial/2021",
-    "Primer parcial/2019",
-    "Primer parcial"
+    "Primer parcial/2021"
   ]
 }
