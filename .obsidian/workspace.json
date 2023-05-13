@@ -13,50 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Segundo Parcial/2022/Web/10 - SQLLite.md",
+                "file": "picoCTF/58 - Flag leak.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "51fe2d474969d12a",
+            "id": "28fc6a0cdf309a66",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/55 - Basic-file-exploit.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9deb6cc176d6ea9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/56 - Buffer overflow 0.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "03acf4aa6ccead3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/57 - Buffer overflow 1.md",
+                "file": "picoCTF/59 - Stonks.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/57 - Buffer overflow 1.md",
+                "file": "picoCTF/59 - Stonks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/57 - Buffer overflow 1.md",
+                "file": "picoCTF/59 - Stonks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/57 - Buffer overflow 1.md"
+                "file": "picoCTF/59 - Stonks.md"
               }
             }
           }
@@ -193,9 +169,10 @@
   },
   "active": "3f4d4dfda2edb23b",
   "lastOpenFiles": [
-    "Untitled.md",
-    "picoCTF/57 - Buffer overflow 1.md",
+    "picoCTF/58 - Flag leak.md",
+    "picoCTF/59 - Stonks.md",
     "Segundo Parcial/2022/Web/10 - SQLLite.md",
+    "picoCTF/57 - Buffer overflow 1.md",
     "picoCTF/56 - Buffer overflow 0.md",
     "picoCTF/55 - Basic-file-exploit.md",
     "Segundo Parcial/2022/Forensic/05 - St3g0...md",
@@ -220,7 +197,6 @@
     "picoCTF/25 - Webnet1.md",
     "picoCTF/24 - WebNet0.md",
     "picoCTF/23 - Shark on wire 2.md",
-    "picoCTF/22 - Like1000.md",
     "Segundo Parcial/2022/Web",
     "Segundo Parcial/2021/Forensic",
     "Segundo Parcial/2021",
