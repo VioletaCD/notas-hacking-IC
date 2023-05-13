@@ -11,11 +11,52 @@
             "id": "72be8adbeaa70274",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Segundo Parcial/2022/Web/10 - SQLLite.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "51fe2d474969d12a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "55 - Basic-file-exploit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9deb6cc176d6ea9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "56 - Buffer overflow 0.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "03acf4aa6ccead3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "57 - Buffer overflow 1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -89,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "57 - Buffer overflow 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "57 - Buffer overflow 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +169,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "57 - Buffer overflow 1.md"
+              }
             }
           }
         ]
@@ -146,16 +191,28 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "72be8adbeaa70274",
+  "active": "03acf4aa6ccead3d",
   "lastOpenFiles": [
+    "Untitled.md",
+    "57 - Buffer overflow 1.md",
+    "Segundo Parcial/2022/Web/10 - SQLLite.md",
+    "56 - Buffer overflow 0.md",
+    "55 - Basic-file-exploit.md",
+    "Segundo Parcial/2022/Forensic/05 - St3g0...md",
+    "Segundo Parcial/2022/Forensic/04 - Redaction gone wrong.md",
+    "Segundo Parcial/2022/Forensic/03 -  Packets Primer.md",
+    "Segundo Parcial/2022/Forensic/02 - Lookey here.md",
+    "Segundo Parcial/2022/Forensic/01 - Enhance!.md",
+    "Segundo Parcial/2022/Forensic",
+    "Forensic",
     "picoCTF/54 - Safe Opener 2.md",
     "picoCTF/Tarea 4 - Participación en picoCTF 2023/13 - Safe Opener 2.md",
     "picoCTF/53 - Reverse_cipher.md",
     "picoCTF/03 - Logon.md",
     "picoCTF/52 - GDB Test Drive.md",
     "picoCTF/51 - Need For Speed.md",
-    "Segundo Parcial/2021/02 - Wireshark doo dooo do doo....md",
-    "Segundo Parcial/2021/01 - Information.md",
+    "Segundo Parcial/2021/Forensic/02 - Wireshark doo dooo do doo....md",
+    "Segundo Parcial/2021/Forensic/01 - Information.md",
     "picoCTF/16 - Shark on wire 1.md",
     "picoCTF/28 - MacroHard WeakEdge.md",
     "picoCTF/27 - Tunn3l_v1s10n.md",
@@ -164,19 +221,8 @@
     "picoCTF/24 - WebNet0.md",
     "picoCTF/23 - Shark on wire 2.md",
     "picoCTF/22 - Like1000.md",
-    "picoCTF/21 - C0rrupt.md",
-    "picoCTF/20 - WhitePages.md",
-    "picoCTF/19 - m00nwalk.md",
-    "picoCTF/18 - What Lies Within.md",
-    "picoCTF/17 - Extensions.md",
-    "picoCTF/15 - So Meta.md",
-    "picoCTF/14 - Glory of the Garden.md",
-    "picoCTF/13 - Scavenger Hunt.md",
-    "picoCTF/12 - Cookies.md",
-    "picoCTF/11 - GET aHEAD.md",
-    "Untitled",
     "Segundo Parcial/2022/Web",
-    "Segundo Parcial/2022/Forensic",
+    "Segundo Parcial/2021/Forensic",
     "Segundo Parcial/2021",
     "Segundo Parcial/2022/Web/Pasted image 20230504181815.png",
     "Segundo Parcial/2022",
@@ -193,7 +239,6 @@
     "picoCTF/Tarea 4 - Participación en picoCTF 2023",
     "picoCTF",
     "Untitled.canvas",
-    "Primer parcial/2022",
-    "Primer parcial/2021"
+    "Primer parcial/2022"
   ]
 }
