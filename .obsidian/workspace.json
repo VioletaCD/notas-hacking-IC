@@ -4,28 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "1ecc3533cf9dac48",
+        "id": "3b1f621a4d2a2db3",
         "type": "tabs",
         "children": [
           {
-            "id": "72be8adbeaa70274",
+            "id": "3f4ae6861117fe04",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/58 - Flag leak.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "28fc6a0cdf309a66",
+            "id": "a714d99342c4d21d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/59 - Stonks.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/59 - Stonks.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/59 - Stonks.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/59 - Stonks.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -169,6 +165,7 @@
   },
   "active": "3f4d4dfda2edb23b",
   "lastOpenFiles": [
+    "Untitled.md",
     "picoCTF/58 - Flag leak.md",
     "picoCTF/59 - Stonks.md",
     "Segundo Parcial/2022/Web/10 - SQLLite.md",
@@ -196,7 +193,6 @@
     "picoCTF/26 - Matryoshka doll.md",
     "picoCTF/25 - Webnet1.md",
     "picoCTF/24 - WebNet0.md",
-    "picoCTF/23 - Shark on wire 2.md",
     "Segundo Parcial/2022/Web",
     "Segundo Parcial/2021/Forensic",
     "Segundo Parcial/2021",
