@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tercer Parcial/Crypto/05 - SRA.md",
+                "file": "Tercer Parcial/Reversing/07 - GDB baby step 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tercer Parcial/Crypto/05 - SRA.md",
+                "file": "Tercer Parcial/Reversing/07 - GDB baby step 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tercer Parcial/Crypto/05 - SRA.md",
+                "file": "Tercer Parcial/Reversing/07 - GDB baby step 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tercer Parcial/Crypto/05 - SRA.md"
+                "file": "Tercer Parcial/Reversing/07 - GDB baby step 2.md"
               }
             }
           }
@@ -156,32 +156,32 @@
   },
   "active": "c3d3bc0a53747d36",
   "lastOpenFiles": [
-    "Tercer Parcial/Crypto/04 - Vigenere.md",
+    "Tercer Parcial/Reversing/06 - GDB baby step 1.md",
+    "Tercer Parcial/Reversing/07 - GDB baby step 2.md",
+    "Tercer Parcial/Reversing/05 - Bit-O-Asm-4.md",
+    "Tercer Parcial/Reversing/04 - Bit-O-Asm-3.md",
+    "Tercer Parcial/Crypto/05 - SRA.md",
+    "picoCTF/36 - RSA pop quiz.md",
+    "picoCTF/35 - Waves over lambda.md",
+    "Tercer Parcial/Crypto/02 - Mr-Worldwide.md",
     "Tercer Parcial/Crypto/03 - Transposition-trial.md",
+    "Tercer Parcial/Crypto/04 - Vigenere.md",
     "Tercer Parcial/Binary Explotation/04 - Two-sum.md",
     "Tercer Parcial/Binary Explotation/03 - Clutter-overflow.md",
     "Tercer Parcial/Binary Explotation/02 - Local Target.md",
     "picoCTF/57 - Buffer overflow 1.md",
     "picoCTF/56 - Buffer overflow 0.md",
-    "Tercer Parcial/Reversing/05 - Bit-O-Asm-4.md",
-    "Tercer Parcial/Reversing/04 - Bit-O-Asm-3.md",
     "Tercer Parcial/Binary Explotation/01 - Picker IV.md",
-    "Tercer Parcial/Reversing/06 - GDB baby step 1.md",
     "Tercer Parcial/Reversing/01 - ASCII FTW.md",
-    "Tercer Parcial/Crypto/05 - SRA.md",
     "picoCTF/58 - Flag leak.md",
     "picoCTF/55 - Basic-file-exploit.md",
     "Tercer Parcial/Reversing/03 - Bit-O-Asm-2.md",
     "Tercer Parcial/Reversing/02 - Bit-O-Asm-1.md",
-    "Tercer Parcial/Reversing/07 - GDB baby step 2.md",
-    "Tercer Parcial/Crypto/02 - Mr-Worldwide.md",
     "Tercer Parcial/Crypto/01 - Flags.md",
     "picoCTF/Tarea 4 - Participación en picoCTF 2023/11 - Two-sum.md",
     "Segundo Parcial/2022/Web/10 - SQLLite.md",
     "picoCTF/52 - GDB Test Drive.md",
     "picoCTF/51 - Need For Speed.md",
-    "picoCTF/53 - Reverse_cipher.md",
-    "picoCTF/54 - Safe Opener 2.md",
     "Tercer Parcial/Reversing/Pasted image 20230515155820.png",
     "Tercer Parcial/Reversing/Pasted image 20230515155420.png",
     "Tercer Parcial/Crypto/Pasted image 20230515143908.png",

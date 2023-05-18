@@ -27,5 +27,6 @@ local-target.c: C source, ASCII text
 └─$ cat local-target.c
 ```
 ## Bandera
+picoCTF{}
 ## Notas adicionales
 ## Referencias
