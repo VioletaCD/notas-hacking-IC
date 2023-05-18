@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3b1f621a4d2a2db3",
+        "id": "1439f720420575ef",
         "type": "tabs",
         "children": [
           {
-            "id": "3f4ae6861117fe04",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "a714d99342c4d21d",
+            "id": "c3d3bc0a53747d36",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Tercer Parcial/Crypto/05 - SRA.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 255.5
   },
   "right": {
     "id": "8ffb78c6d37309c2",
@@ -102,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Tercer Parcial/Crypto/05 - SRA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Tercer Parcial/Crypto/05 - SRA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Tercer Parcial/Crypto/05 - SRA.md"
               }
             }
           }
@@ -163,54 +154,54 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "3f4d4dfda2edb23b",
+  "active": "c3d3bc0a53747d36",
   "lastOpenFiles": [
-    "Untitled.md",
-    "picoCTF/58 - Flag leak.md",
-    "picoCTF/59 - Stonks.md",
-    "Segundo Parcial/2022/Web/10 - SQLLite.md",
+    "Tercer Parcial/Crypto/04 - Vigenere.md",
+    "Tercer Parcial/Crypto/03 - Transposition-trial.md",
+    "Tercer Parcial/Binary Explotation/04 - Two-sum.md",
+    "Tercer Parcial/Binary Explotation/03 - Clutter-overflow.md",
+    "Tercer Parcial/Binary Explotation/02 - Local Target.md",
     "picoCTF/57 - Buffer overflow 1.md",
     "picoCTF/56 - Buffer overflow 0.md",
+    "Tercer Parcial/Reversing/05 - Bit-O-Asm-4.md",
+    "Tercer Parcial/Reversing/04 - Bit-O-Asm-3.md",
+    "Tercer Parcial/Binary Explotation/01 - Picker IV.md",
+    "Tercer Parcial/Reversing/06 - GDB baby step 1.md",
+    "Tercer Parcial/Reversing/01 - ASCII FTW.md",
+    "Tercer Parcial/Crypto/05 - SRA.md",
+    "picoCTF/58 - Flag leak.md",
     "picoCTF/55 - Basic-file-exploit.md",
-    "Segundo Parcial/2022/Forensic/05 - St3g0...md",
-    "Segundo Parcial/2022/Forensic/04 - Redaction gone wrong.md",
-    "Segundo Parcial/2022/Forensic/03 -  Packets Primer.md",
-    "Segundo Parcial/2022/Forensic/02 - Lookey here.md",
-    "Segundo Parcial/2022/Forensic/01 - Enhance!.md",
-    "Segundo Parcial/2022/Forensic",
-    "Forensic",
-    "picoCTF/54 - Safe Opener 2.md",
-    "picoCTF/Tarea 4 - Participación en picoCTF 2023/13 - Safe Opener 2.md",
-    "picoCTF/53 - Reverse_cipher.md",
-    "picoCTF/03 - Logon.md",
+    "Tercer Parcial/Reversing/03 - Bit-O-Asm-2.md",
+    "Tercer Parcial/Reversing/02 - Bit-O-Asm-1.md",
+    "Tercer Parcial/Reversing/07 - GDB baby step 2.md",
+    "Tercer Parcial/Crypto/02 - Mr-Worldwide.md",
+    "Tercer Parcial/Crypto/01 - Flags.md",
+    "picoCTF/Tarea 4 - Participación en picoCTF 2023/11 - Two-sum.md",
+    "Segundo Parcial/2022/Web/10 - SQLLite.md",
     "picoCTF/52 - GDB Test Drive.md",
     "picoCTF/51 - Need For Speed.md",
-    "Segundo Parcial/2021/Forensic/02 - Wireshark doo dooo do doo....md",
-    "Segundo Parcial/2021/Forensic/01 - Information.md",
-    "picoCTF/16 - Shark on wire 1.md",
-    "picoCTF/28 - MacroHard WeakEdge.md",
-    "picoCTF/27 - Tunn3l_v1s10n.md",
-    "picoCTF/26 - Matryoshka doll.md",
-    "picoCTF/25 - Webnet1.md",
-    "picoCTF/24 - WebNet0.md",
+    "picoCTF/53 - Reverse_cipher.md",
+    "picoCTF/54 - Safe Opener 2.md",
+    "Tercer Parcial/Reversing/Pasted image 20230515155820.png",
+    "Tercer Parcial/Reversing/Pasted image 20230515155420.png",
+    "Tercer Parcial/Crypto/Pasted image 20230515143908.png",
+    "Tercer Parcial/Crypto/Pasted image 20230515152647.png",
+    "Untitled",
+    "Tercer Parcial/Binary Explotation",
+    "Tercer Parcial/Reversing",
+    "Tercer Parcial/Crypto",
+    "Tercer Parcial",
+    "Segundo Parcial/2022/Forensic",
+    "Forensic",
     "Segundo Parcial/2022/Web",
     "Segundo Parcial/2021/Forensic",
     "Segundo Parcial/2021",
     "Segundo Parcial/2022/Web/Pasted image 20230504181815.png",
-    "Segundo Parcial/2022",
-    "Segundo Parcial",
     "picoCTF/Pasted image 20230502205501.png",
     "picoCTF/Pasted image 20230427203617.png",
     "picoCTF/Pasted image 20230404163630.png",
     "picoCTF/Pasted image 20230422182013.png",
     "picoCTF/Pasted image 20230422174008.png",
-    "picoCTF/Pasted image 20230420140653.png",
-    "picoCTF/Pasted image 20230420140641.png",
-    "picoCTF/Pasted image 20230420135659.png",
-    "picoCTF/Pasted image 20230420134613.png",
-    "picoCTF/Tarea 4 - Participación en picoCTF 2023",
-    "picoCTF",
-    "Untitled.canvas",
-    "Primer parcial/2022"
+    "Untitled.canvas"
   ]
 }
